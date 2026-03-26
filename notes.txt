@@ -1,0 +1,59 @@
+Varibles
+Operators
+Data Types
+Type Conversion
+string & methods
+Use Strict
+Math & Date Module
+If else
+switch case
+Loop
+function
+array
+objects
+array of objects
+setInterval & setTimeOut
+array methods
+DOM
+
+
+CRUD - Create Read Update Delete
+
+
+BOM - Browser Object Model
+Events -> Browser Actions
+Synchronous & Asynchronous
+Try Catch
+API Fetching & Promises -> Application Programming Interface
+Clousers
+import & export
+class & OOP -> Object Oriented Programming
+
+
+
+
+1-7
+
+num = 5
+
+x = 'a'  'm'  'w'  'u'
+
+switch(x){
+    case 'a': products.filter(v=>v.gender === 'All'); break;
+    case 'm': "Sunday"; break;
+    case 'w': "Sunday"; break;
+    case 'u': "Sunday"; break;
+
+    default: "Invalid Number"
+}
+switch(num){
+    case 1: "Sunday"; break;
+    case 2: "Sunday"; break;
+    case 3: "Sunday"; break;
+    case 4: "Sunday"; break;
+    case 5: "Sunday"; break;
+    case 6: "Sunday"; break;
+    case 7: "Sunday"; break;
+
+    default: "Invalid Number"
+}
