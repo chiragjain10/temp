@@ -11,5 +11,5 @@ const fetchApi = (url)=>{
 }
 
 
-fetchApi("https://jsonplaceholder.typicode.com/users")
+fetchApi("https://jsonplaceholder.tyode.com/users")
 fetchApi("https://jsonplaceholder.typicode.com/albums")
